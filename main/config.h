@@ -39,5 +39,5 @@ String outputFridgeState = "off";
 #define LED_PIN_B   17
 #define LED_PIN_BOD 15
 #define LED_PIN_BOD_toggle 21
-#define LED_table 22
-#define FRIDGE_PIN 4
+#define LED_table 4
+#define FRIDGE_PIN 22
