@@ -1,4 +1,4 @@
-#lumus project
+# Webpage managed light control using ESP-32 chip
 
 ![esp32-pins](/assets/esp32-pins.png)
 
